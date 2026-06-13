@@ -31,7 +31,8 @@ const defaultFeatures = [
   'js/features/command-palette.js',
   'js/features/url-state.js',
   'js/features/url-state-integration.js',
-  'js/features/recent.js'
+  'js/features/recent.js',
+  'js/features/tag-filter.js'
 ];
 
 const pageMap = {
