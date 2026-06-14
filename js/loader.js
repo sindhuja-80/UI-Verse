@@ -31,7 +31,8 @@
     'js/features/command-palette.js',
     'js/features/url-state.js',
     'js/features/url-state-integration.js',
-    'js/features/preview-zoom.js'
+    'js/features/preview-zoom.js',
+    'js/features/related-components.js',
   ];
 
   // Per-page overrides (only load what's necessary)
