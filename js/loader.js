@@ -32,7 +32,8 @@ const defaultFeatures = [
   'js/features/url-state.js',
   'js/features/url-state-integration.js',
   'js/features/recent.js',
-  'js/features/tag-filter.js'
+  'js/features/tag-filter.js',
+  'js/features/responsive-badges.js'
 ];
 
 const pageMap = {
