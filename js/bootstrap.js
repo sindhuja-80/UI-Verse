@@ -161,6 +161,15 @@ const Bootstrap = {
     ResponsiveBadges
   );
 }
+if (
+  typeof CopyComponentLink !==
+  'undefined'
+) {
+  UIverse.register(
+    'CopyComponentLink',
+    CopyComponentLink
+  );
+}
     if (typeof TagFilter !== 'undefined') {
   UIverse.register('TagFilter', TagFilter);
 }
